@@ -1,0 +1,461 @@
+[
+    {
+        "title": "365 Days",
+        "synopsis": "Massimo is a member of the Sicilian Mafia family and Laura is a sales director. She does not expect that on a trip to Sicily trying to save her relationship, Massimo will kidnap her and give her 365 days to fall in love with him.",
+        "year": 2020,
+        "trailer": "https://youtu.be/7OE6Fcr0XcY",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/3/32/365_Dni_film_poster.png",
+        "director": "Barbara Białowąs, Tomasz Mandes",
+        "budget": "$9,458,333"
+    },
+    {
+        "title": "Mulan",
+        "synopsis": "A fearless young woman risks everything out of love for her family and her country to become one of the greatest warriors China has ever known. When the Emperor of China issues a decree that one man per family must serve in the Imperial Army to defend the country from Northern invaders, Hua Mulan, the eldest daughter of an honored warrior, steps in to take the place of her ailing father. Masquerading as a man, Hua Jun, she is tested every step of the way and must harness her inner-strength and embrace her true potential. It is an epic journey that will transform her into an honored warrior and earn her the respect of a grateful nation…and a proud father.",
+        "year": 2020,
+        "trailer": "https://youtu.be/KK8FHdFluOQ",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Mulan_%282020_film%29_poster.jpg/220px-Mulan_%282020_film%29_poster.jpg",
+        "director": "Niki Caro",
+        "budget": "$67,695,650"
+    },
+    {
+        "title": "Avengers: Endgame",
+        "synopsis": "The grave course of events set in motion by Thanos that wiped out half the universe and fractured the Avengers ranks compels the remaining Avengers to take one final stand in Marvel Studios’ grand conclusion to twenty-two films, “Avengers: Endgame.”",
+        "year": 2019,
+        "trailer": "https://youtu.be/TcMBFSGVi1c",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/0/0d/Avengers_Endgame_poster.jpg",
+        "director": "Joe Russo, Anthony Russo",
+        "budget": "$48,761,132"
+    },
+    {
+        "title": "Joker",
+        "synopsis": "Arthur Fleck, is of a man struggling to find his way in Gotham’s fractured society. A clown-for-hire by day, he aspires to be a stand-up comic at night…but finds the joke always seems to be on him. Caught in a cyclical existence between apathy and cruelty, Arthur makes one bad decision that brings about a chain reaction of escalating events in this gritty character study.",
+        "year": 2019,
+        "trailer": "https://youtu.be/zAGVQLHvwOY",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Joker_%282019_film%29_poster.jpg/220px-Joker_%282019_film%29_poster.jpg",
+        "director": "Todd Phillips",
+        "budget": "$55,000,000"
+    },
+    {
+        "title": "Deadpool",
+        "synopsis": "The origin story of former Special Forces operative turned mercenary Wade Wilson, who after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life.",
+        "year": 2016,
+        "trailer": "https://youtu.be/ONHBaC-pfsk",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Deadpool_%282016_poster%29.png/220px-Deadpool_%282016_poster%29.png",
+        "director": "Tim Miller",
+        "budget": "$58,000,000"
+    },
+    {
+        "title": "Deadpool 2",
+        "synopsis": "After surviving a near fatal bovine attack, a disfigured cafeteria chef struggles to fulfill his dream of becoming Mayberry’s hottest bartender while also learning to cope with his lost sense of taste. Searching to regain his spice for life, as well as a flux capacitor, Wade must battle ninjas, the yakuza, and a pack of sexually aggressive canines, as he journeys around the world to discover the importance of family, friendship, and flavor—finding a new taste for adventure and earning the coveted coffee mug title of World’s Best Lover.",
+        "year": 2018,
+        "trailer": "https://youtu.be/D86RtevtfrA",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/c/cf/Deadpool_2_poster.jpg",
+        "director": "David Leitch",
+        "budget": "$110,000,000"
+    },
+    {
+        "title": "The Matrix Reloaded",
+        "synopsis": "Neo (Keanu Reeves) believes that Morpheus (Laurence Fishburne), an elusive figure considered to be the most dangerous man alive, can answer his question -- What is the Matrix? Neo is contacted by Trinity (Carrie-Anne Moss), a beautiful stranger who leads him into an underworld where he meets Morpheus. They fight a brutal battle for their lives against a cadre of viciously intelligent secret agents. It is a truth that could cost Neo something more precious than his life.",
+        "year": 2003,
+        "trailer": "https://youtu.be/hMbexEPAOQI",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/b/ba/Poster_-_The_Matrix_Reloaded.jpg",
+        "director": "Lana and Lilly Wachowski",
+        "budget": "$150,000,000 "
+    },
+    {
+        "title": "IT",
+        "synopsis": "When children begin to disappear in the town of Derry, Maine, a group of young kids are faced with their biggest fears when they square off against an evil clown named Pennywise, whose history of murder and violence dates back for centuries.",
+        "year": 2017,
+        "trailer": "https://youtu.be/FnCdOQsX5kc",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/5/5a/It_%282017%29_poster.jpg",
+        "director": "Andy Muschietti",
+        "budget": "$35,000,000"
+    },
+    {
+        "title": "IT Chapter 2",
+        "synopsis": "Defeated by members of the Losers' Club, the evil clown Pennywise returns 27 years later to terrorize the town of Derry, Maine, once again. Now adults, the childhood friends have long since gone their separate ways. But when people start disappearing, Mike Hanlon calls the others home for one final stand. Damaged by scars from the past, the united Losers must conquer their deepest fears to destroy the shape-shifting Pennywise -- now more powerful than ever.",
+        "year": 2019,
+        "trailer": "https://youtu.be/bKL1ImsN-DU",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/ItChapterTwoTeaser.jpg/220px-ItChapterTwoTeaser.jpg",
+        "director": "Andy Muschietti",
+        "budget": "$79,000,000"
+    },
+    {
+        "title": "Logan",
+        "synopsis": "In the near future, a weary Logan cares for an ailing Professor X in a hide out on the Mexican border. But Logan’s attempts to hide from the world and his legacy are up-ended when a young mutant arrives, being pursued by dark forces.",
+        "year": 2017,
+        "trailer": "https://youtu.be/gbug3zTm3Ws",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/3/37/Logan_2017_poster.jpg",
+        "director": "James Mangold",
+        "budget": "$127,000,000"
+    },
+    {
+        "title": "Fifty Shades of Grey",
+        "synopsis": "When college senior Anastasia Steele (Dakota Johnson) steps in for her sick roommate to interview prominent businessman Christian Grey (Jamie Dornan) for their campus paper, little does she realize the path her life will take. Christian, as enigmatic as he is rich and powerful, finds himself strangely drawn to Ana, and she to him. Though sexually inexperienced, Ana plunges headlong into an affair -- and learns that Christian's true sexual proclivities push the boundaries of pain and pleasure.",
+        "year": 2015,
+        "trailer": "https://youtu.be/SfZWFDs0LxA",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/7/73/Fifty_Shades_of_Grey_poster.jpg",
+        "director": "Sam Taylor-Johnson",
+        "budget": "$40,000,000"
+    },
+    {
+        "title": "Ted",
+        "synopsis": "TED tells the story of John Bennett, a grown man who must deal with the cherished teddy bear who came to life as the result of a childhood wish...and has refused to leave his side ever since",
+        "year": 2012,
+        "trailer": "https://youtu.be/9fbo_pQvU7M",
+        "poster": "https://en.wikipedia.org/wiki/File:Ted_poster.jpg",
+        "director": "Seth MacFarlane",
+        "budget": "$50,000,000"
+    },
+    {
+        "title": "Ted 2",
+        "synopsis": "Life has changed drastically for thunder buddies John, now a bachelor, and best pal Ted, now married to the woman of his dreams. Problems arise when the couple decide to adopt a child, but the law declares Ted to be property and not a person. Angry and dejected, the lovably foulmouthed teddy bear must now seek legal help from a young lawyer and a legendary, civil-rights attorney to get the justice he deserves.",
+        "year": 2015,
+        "trailer": "https://youtu.be/S3AVcCggRnU",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Ted_2_poster.jpg/220px-Ted_2_poster.jpg",
+        "director": "Seth MacFarlane",
+        "budget": "$68,000,000"
+    },
+    {
+        "title": "The Lion King",
+        "synopsis": "Simba idolizes his father, King Mufasa, and takes to heart his own royal destiny. But not everyone in the kingdom celebrates the new cub’s arrival. Scar, Mufasa’s brother—and former heir to the throne—has plans of his own. The battle for Pride Rock is ravaged with betrayal, tragedy and drama, ultimately resulting in Simba’s exile. With help from a curious pair of newfound friends, Simba will have to figure out how to grow up and take back what is rightfully his.",
+        "year": 2019,
+        "trailer": "https://youtu.be/7TavVZMewpY",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/9/9d/Disney_The_Lion_King_2019.jpg",
+        "director": "Jon Favreau",
+        "budget": "$260,000,000"
+    },
+    {
+        "title": "Frozen II",
+        "synopsis": "Why was Elsa born with magical powers? The answer is calling her and threatening her kingdom. Together with Anna, Kristoff, Olaf and Sven, she’ll set out on a dangerous but remarkable journey. In “Frozen,” Elsa feared her powers were too much for the world. In “Frozen 2,” she must hope they are enough.",
+        "year": 2019,
+        "trailer": "https://youtu.be/Zi4LMpSDccc",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Frozen_2_poster.jpg/220px-Frozen_2_poster.jpg",
+        "director": "Chris Buck, Jennifer Lee",
+        "budget": "$150,000,000"
+    },
+    {
+        "title": "Spider-Man: Far From Home",
+        "synopsis": "Following the events of Avengers: Endgame, Spider-Man must step up to take on new threats in a world that has changed forever.",
+        "year": 2019,
+        "trailer": "https://youtu.be/DYYtuKyMtY8",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/b/bd/Spider-Man_Far_From_Home_poster.jpg",
+        "director": "Jon Watts",
+        "budget": "$160,000,000"
+    },
+    {
+        "title": "Captain Marvel",
+        "synopsis": "The story follows Carol Danvers as she becomes one of the universe’s most powerful heroes when Earth is caught in the middle of a galactic war between two alien races.",
+        "year": 2019,
+        "trailer": "https://youtu.be/moY78qMJuxM",
+        "poster": "https://en.wikipedia.org/wiki/File:Captain_Marvel_poster.jpg",
+        "director": "Anna Boden, Ryan Fleck",
+        "budget": "$175,000,000"
+    },
+    {
+        "title": "Toy Story 4",
+        "synopsis": "Woody has always been confident about his place in the world, and that his priority is taking care of his kid, whether that’s Andy or Bonnie. So when Bonnie’s beloved new craft-project-turned-toy, Forky, declares himself as “trash” and not a toy, Woody takes it upon himself to show Forky why he should embrace being a toy. But when Bonnie takes the whole gang on her family’s road trip excursion, Woody ends up on an unexpected detour that includes a reunion with his long-lost friend Bo Peep. After years of being on her own, Bo’s adventurous spirit and life on the road belie her delicate porcelain exterior. As Woody and Bo realize they’re worlds apart when it comes to life as a toy, they soon come to find that’s the least of their worries.",
+        "year": 2019,
+        "trailer": "https://youtu.be/wmiIUN-7qhE",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/4/4c/Toy_Story_4_poster.jpg",
+        "director": "Josh Cooley",
+        "budget": "$200,000,000"
+    },
+    {
+        "title": "Star Wars: The Rise of Skywalker",
+        "synopsis": "No one’s ever really gone… Rey’s journey continues and the Skywalker saga concludes.",
+        "year": 2019,
+        "trailer": "https://youtu.be/8Qn_spdM5Zg",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/a/af/Star_Wars_The_Rise_of_Skywalker_poster.jpg",
+        "director": "J. J. Abrams",
+        "budget": "$275,000,000"
+    },
+    {
+        "title": "Jumanji: The Next Level",
+        "synopsis": "The gang is back but the game has changed. As they return to Jumanji to rescue one of their own, they discover that nothing is as they expect. The players will have to brave parts unknown and unexplored, from the arid deserts to the snowy mountains, in order to escape the world’s most dangerous game.",
+        "year": 2019,
+        "trailer": "https://youtu.be/rBxcF-r9Ibs",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/JumanjiTheNextLevelTeaserPoster.jpg/220px-JumanjiTheNextLevelTeaserPoster.jpg",
+        "director": "Jake Kasdan",
+        "budget": "$125,000,000"
+    },
+    {
+        "title": "Fast & Furious Presents: Hobbs & Shaw",
+        "synopsis": "Ever since hulking lawman Hobbs, a loyal agent of America’s Diplomatic Security Service, and lawless outcast Shaw, a former British military elite operative, first faced off in 2015’s Furious 7, the duo have swapped smack talk and body blows as they’ve tried to take each other down. But when cyber-genetically enhanced anarchist Brixton gains control of an insidious bio-threat that could alter humanity forever — and bests a brilliant and fearless rogue MI6 agent, who just happens to be Shaw’s sister — these two sworn enemies will have to partner up to bring down the only guy who might be badder than themselves.",
+        "year": 2019,
+        "trailer": "https://youtu.be/9SA7FaKxZVI",
+        "poster": "https://en.wikipedia.org/wiki/File:Fast_%26_Furious_Presents_Hobbs_%26_Shaw_-_theatrical_poster.jpg",
+        "director": "David Leitch",
+        "budget": "$200,000,000"
+    },
+    {
+        "title": "How to Train Your Dragon: The Hidden World",
+        "synopsis": "As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ discovery of an untamed, elusive mate draws the Night Fury away. When danger mounts at home and Hiccup’s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind.",
+        "year": 2019,
+        "trailer": "https://youtu.be/SkcucKDrbOI",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/f/fd/How_to_Train_Your_Dragon_3_poster.png",
+        "director": "Dean DeBlois",
+        "budget": "$129,000,000"
+    },
+    {
+        "title": "Maleficent: Mistress of Evil",
+        "synopsis": "The film continues to explore the complex relationship between the horned fairy and the soon to be Queen as they form new alliances and face new adversaries in their struggle to protect the moors and the magical creatures that reside within.",
+        "year": 2019,
+        "trailer": "https://youtu.be/n0OFH4xpPr4",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/7/7b/Maleficent_Mistress_of_Evil_%28Official_Film_Poster%29.png",
+        "director": "Joachim Ronning",
+        "budget": "$185,000,000"
+    },
+    {
+        "title": "The Secret Life of Pets 2",
+        "synopsis": "Terrier Max is coping with some major life changes. His owner is now married and has a toddler, Liam. Max is so worried about protecting the boy that he develops a nervous tic. On a family trip to a farm, Max and mutt Duke encounter canine-intolerant cows, hostile foxes and a terrifying turkey, all of which only elevates Max’s anxiety. Luckily, Max gets some guidance from veteran farm dog Rooster, who pushes Max to ditch his neuroses, find his inner alpha, and give Liam a little more freedom. Meanwhile, while her owner is away, plucky Pomeranian Gidget tries to rescue Max’s favorite toy from a cat-packed apartment with a little help from her feline friend, Chloe, who has discovered the joys of catnip. And crazy-but-cute bunny Snowball gets delusions of grandeur that he’s an actual superhero after his owner Molly starts dressing him in superhero pajamas. But when Daisy, a fearless Shih Tzu, shows up to ask for Snowball’s help on a dangerous mission, he’ll have to summon the courage to become the hero he’s only been pretending to be. Can Max, Snowball, Gidget and the rest of the gang find the inner courage to face their biggest fears?",
+        "year": 2019,
+        "trailer": "https://youtu.be/mYocfuqu2A8",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/The_Secret_Life_of_Pets_2_%282019%29_Final_Poster.jpg/220px-The_Secret_Life_of_Pets_2_%282019%29_Final_Poster.jpg",
+        "director": "Chris Renaud",
+        "budget": "$80,000,000"
+    },
+    {
+        "title": "Pokémon: Detective Pikachu",
+        "synopsis": "The story begins when ace detective Harry Goodman goes mysteriously missing, prompting his 21 year old son Tim to find out what happened. Aiding in the investigation is Harry’s former Pokemon partner, Detective Pikachu: a hilariously wise-cracking, adorable super-sleuth who is a puzzlement even to himself. Finding that they are uniquely equipped to work together, as Tim is the only human who can talk with Detective Pikachu, they join forces on a thrilling adventure to unravel the tangled mystery. Chasing clues together through the neon-lit streets of Ryme City—a sprawling, modern metropolis where humans and Pokemon live side by side in a hyper-realistic live-action world—they encounter a diverse cast of Pokemon and uncover a shocking plot that could destroy this peaceful co-existence and threaten the whole Pokemon universe.",
+        "year": 2019,
+        "trailer": "https://youtu.be/du88WArjb8w",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Pok%C3%A9mon_Detective_Pikachu_teaser_poster.jpg/220px-Pok%C3%A9mon_Detective_Pikachu_teaser_poster.jpg",
+        "director": "Rob Letterman",
+        "budget": "$150,000,000"
+    },
+    {
+        "title": "Alita: Battle Angel ",
+        "synopsis": "When Alita awakens with no memory of who she is in a future world she does not recognize, she is taken in by Ido, a compassionate doctor who realizes that somewhere in this abandoned cyborg shell is the heart and soul of a young woman with an extraordinary past. As Alita learns to navigate her new life and the treacherous streets of Iron City, Ido tries to shield her from her mysterious history while her street-smart new friend Hugo offers instead to help trigger her memories. But it is only when the deadly and corrupt forces that run the city come after Alita that she discovers a clue to her past—she has unique fighting abilities that those in power will stop at nothing to control. If she can stay out of their grasp, she could be the key to saving her friends, her family and the world she’s grown to love.",
+        "year": 2019,
+        "trailer": "https://youtu.be/w7pYhpJaJW8",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/Alita_Battle_Angel_%282019_poster%29.png/220px-Alita_Battle_Angel_%282019_poster%29.png",
+        "director": "Robert Rodriguez",
+        "budget": "$170,000,000"
+    },
+    {
+        "title": "Godzilla: King of the Monsters",
+        "synopsis": "An action adventure that pits Godzilla against some of the most popular monsters in pop culture history.",
+        "year": 2019,
+        "trailer": "https://youtu.be/QFxN2oDKk0E",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Godzilla_%E2%80%93_King_of_the_Monsters_%282019%29_poster.png/220px-Godzilla_%E2%80%93_King_of_the_Monsters_%282019%29_poster.png",
+        "director": "Michael Dougherty",
+        "budget": "$170,000,000"
+    },
+    {
+        "title": "Once Upon a Time…in Hollywood",
+        "synopsis": "1969 Los Angeles, where everything is changing, as TV star Rick Dalton and his longtime stunt double Cliff Booth make their way around an industry they hardly recognize anymore.",
+        "year": 2019,
+        "trailer": "https://youtu.be/ELeMaP8EPAA",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Once_Upon_a_Time_in_Hollywood_poster.png/220px-Once_Upon_a_Time_in_Hollywood_poster.png",
+        "director": "Quentin Tarantino",
+        "budget": "$90,000,000"
+    },
+    {
+        "title": "1917",
+        "synopsis": "At the height of the First World War, two young British soldiers, Schofield and Blake are given a seemingly impossible mission. In a race against time, they must cross enemy territory and deliver a message that will stop a deadly attack on hundreds of soldiers—Blake’s own brother among them.",
+        "year": 2019,
+        "trailer": "https://youtu.be/YqNYrYUiMfg",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTdmNTFjNDEtNzg0My00ZjkxLTg1ZDAtZTdkMDc2ZmFiNWQ1XkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "director": "Sam Mendes",
+        "budget": "$100,000,000"
+    },
+    {
+        "title": "Shazam!",
+        "synopsis": "We all have a superhero inside us, it just takes a bit of magic to bring it out. In Billy Batson’s case, by shouting out one word—SHAZAM!—this streetwise 14-year-old foster kid can turn into the adult Super Hero Shazam, courtesy of an ancient wizard. Still a kid at heart—inside a ripped, godlike body—Shazam revels in this adult version of himself by doing what any teen would do with superpowers: have fun with them! Can he fly? Does he have X-ray vision? Can he shoot lightning out of his hands? Can he skip his social studies test? Shazam sets out to test the limits of his abilities with the joyful recklessness of a child. But he’ll need to master these powers quickly in order to fight the deadly forces of evil controlled by Dr. Thaddeus Sivana.",
+        "year": 2019,
+        "trailer": "https://youtu.be/go6GEIrcvFY",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Shazam%21_theatrical_poster.jpg/220px-Shazam%21_theatrical_poster.jpg",
+        "director": "David F. Sandberg",
+        "budget": "$85,000,000"
+    },
+    {
+        "title": "Dumbo",
+        "synopsis": "Meet Dumbo, Mrs. Jumbo’s sweet little “Baby Mine” who charms all who see him… until it’s discovered that he has huge floppy ears! With the support of his very best friend, Timothy the mouse, Dumbo soon learns that his spectacular ears make him unique and special, allowing him to soar to fame as the world’s only flying elephant.",
+        "year": 2019,
+        "trailer": "https://youtu.be/-QPdRfqTnt4",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/9/91/Dumbo_%282019_film%29.png/220px-Dumbo_%282019_film%29.png",
+        "director": "Tim Burton",
+        "budget": "$170,000,000"
+    },
+    {
+        "title": "John Wick: Chapter 3 — Parabellum",
+        "synopsis": "John Wick returns with a $14 million price tag on his head and an army of bounty-hunting killers on his trail. After killing a member of the shadowy international assassin’s guild, the High Table, John Wick is excommunicado, but the world’s most ruthless hit men and women await his every turn.",
+        "year": 2019,
+        "trailer": "https://youtu.be/pU8-7BX9uxs",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/9/94/John_Wick_Chapter_3_Parabellum.png/220px-John_Wick_Chapter_3_Parabellum.png",
+        "director": "Chad Stahelski",
+        "budget": "$40,000,000"
+    },
+    {
+        "title": "Knives Out",
+        "synopsis": "When renowned crime novelist Harlan Thrombey is found dead at his estate just after his 85th birthday, the inquisitive and debonair Detective Benoit Blanc is mysteriously enlisted to investigate. From Harlan’s dysfunctional family to his devoted staff, Blanc sifts through a web of red herrings and self-serving lies to uncover the truth behind Harlan’s untimely death.",
+        "year": 2019,
+        "trailer": "https://youtu.be/sL-9Khv7wa4",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/1/1f/Knives_Out_poster.jpeg",
+        "director": "Rian Johnson",
+        "budget": "$40,000,000"
+    },
+    {
+        "title": "Us",
+        "synopsis": "Haunted by an unexplainable and unresolved trauma from her past and compounded by a string of eerie coincidences, Adelaide feels her paranoia elevate to high-alert as she grows increasingly certain that something bad is going to befall her family. After spending a tense beach day with their friends, the Tylers, Adelaide and her family return to their vacation home. When darkness falls, the Wilsons discover the silhouette of four figures holding hands as they stand in the driveway. This endearing American family is pitted against a terrifying and uncanny opponent: doppelgängers of themselves.",
+        "year": 2019,
+        "trailer": "https://youtu.be/hNCmb-4oXJA",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Us_%282019%29_theatrical_poster.png/220px-Us_%282019%29_theatrical_poster.png",
+        "director": "Jordan Peele",
+        "budget": "$20,000,000"
+    },
+    {
+        "title": "Men in Black: International",
+        "synopsis": "The Men in Black have always protected the Earth from the scum of the universe. In this new adventure, they tackle their biggest, most global threat to date: a mole in the Men in Black organization.",
+        "year": 2019,
+        "trailer": "https://youtu.be/BV-WEb2oxLk",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/1/1b/Men_in_Black_International_%28Official_Film_Poster%29.png",
+        "director": "F. Gary Gray",
+        "budget": "$110,000,000"
+    },
+    {
+        "title": "Terminator: Dark Fate",
+        "synopsis": "27 years after the events of Terminator 2: Judgment Day, a new, modified liquid metal Terminator is sent from the future by Skynet in order to terminate Dani Ramos, a hybrid cyborg human, and her friends. Sarah Connor comes to their aid, as well as the original Terminator, for a fight for the future.",
+        "year": 2019,
+        "trailer": "https://youtu.be/oxy8udgWRmo",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Terminator_Dark_Fate_poster.jpg/220px-Terminator_Dark_Fate_poster.jpg",
+        "director": "Tim Miller",
+        "budget": "$185,000,000"
+    },
+    {
+        "title": "Glass",
+        "synopsis": "Following the conclusion of Split, Glass finds David Dunn pursuing Crumb’s superhuman figure of The Beast in a series of escalating encounters, while the shadowy presence of Price emerges as an orchestrator who holds secrets critical to both men.",
+        "year": 2019,
+        "trailer": "https://youtu.be/95ghQs5AmNk",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/0/01/Glass_%282019_poster%29.png",
+        "director": "M. Night Shyamalan",
+        "budget": "$20,000,000"
+    },
+    {
+        "title": "Dark Phoenix",
+        "synopsis": "The X-Men face their most formidable and powerful foe: one of their own, Jean Grey. During a rescue mission in space, Jean is nearly killed when she is hit by a mysterious cosmic force. Once she returns home, this force not only makes her infinitely more powerful, but far more unstable. Wrestling with this entity inside her, Jean unleashes her powers in ways she can neither comprehend nor contain. With Jean spiraling out of control, and hurting the ones she loves most, she begins to unravel the very fabric that holds the X-Men together. Now, with this family falling apart, they must find a way to unite—not only to save Jean’s soul, but to save our very planet from aliens who wish to weaponize this force and rule the galaxy.",
+        "year": 2019,
+        "trailer": "https://youtu.be/1-q8C_c-nlM",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Dark_Phoenix_%28film%29.png/220px-Dark_Phoenix_%28film%29.png",
+        "director": "Simon Kinberg",
+        "budget": "$200,000,000"
+    },
+    {
+        "title": "Annabelle Comes Home",
+        "synopsis": "Determined to keep Annabelle from wreaking more havoc, demonologists Ed and Lorraine Warren bring the possessed doll to the locked artifacts room in their home, placing her “safely” behind sacred glass and enlisting a priest’s holy blessing. But an unholy night of horror awaits as Annabelle awakens the evil spirits in the room, who all set their sights on a new target—the Warrens’ ten-year-old daughter, Judy, and her friends.",
+        "year": 2019,
+        "trailer": "https://youtu.be/bCxm7cTpBAs",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/5/50/AnnabelleComesHomePoster.jpg",
+        "director": "Gary Dauberman",
+        "budget": "$27,000,000"
+    },
+    {
+        "title": "Ford v. Ferrari",
+        "synopsis": "An eccentric, determined team of American engineers and designers, led by automotive visionary Carroll Shelby and his British driver, Ken Miles, are dispatched by Henry Ford II with the mission of building from scratch an entirely new race car with the potential to finally defeat the perennially dominant Ferrari at the 1966 Le Mans World Championship.",
+        "year": 2019,
+        "trailer": "https://youtu.be/zyYgDtY2AMY",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Ford_v._Ferrari_%282019_film_poster%29.png/220px-Ford_v._Ferrari_%282019_film_poster%29.png",
+        "director": "James Mangold",
+        "budget": "$97,600,000 "
+    },
+    {
+        "title": "Little Women",
+        "synopsis": "The story unfolds as the author’s alter ego, Jo March, reflects back and forth on her fictional life. In this take, the beloved story of the March sisters — four young women each determined to live life on her own terms — is both timeless and timely.",
+        "year": 2019,
+        "trailer": "https://youtu.be/AST2-4db4ic",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/9/9d/Little_Women_%282019_film%29.jpeg",
+        "director": "Greta Gerwig",
+        "budget": "$42,000,000"
+    },
+    {
+        "title": "The Addams Family ",
+        "synopsis": "Gomez, Morticia, Pugsley, Wednesday, Uncle Fester, and Grandma join a lively cast of characters to remind us why they are the most eccentric family in the neighborhood. Except in this case, they are the most eccentric family in the run-down mansion on top of a fog surrounded hill in New Jersey. Happily ensconced in their Addams way of life for years, Gomez and Morticia prepare for a visit from their extended family for Pugsley’s “Sabre Mazurka,” a rite of passage ceremony to prove he is ready to become an Addams Family man. Little does the family know, their neighbor down the hill is constructing a prefabricated community, replete with technicolor pop and perfectionism. When the fog lifts, Margaux is disconcerted to see The Addams Family mansion—the one thing standing between her dream of selling all the houses in the neighborhood and being adored as a TV personality forever. As Pugsley struggles to learn the complicated “Sabre Mazurka” routine, Wednesday finds herself struggling with coming-of-age. She befriends Margaux’s daughter Parker and pushes boundaries, as well as, Morticia’s buttons by joining in on “normal” pursuits like attending public school, cheerleading, and pink barrettes.",
+        "year": 2019,
+        "trailer": "https://youtu.be/F7Ug863S8dQ",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/The_Addams_Family_%282019_film%29.png/220px-The_Addams_Family_%282019_film%29.png",
+        "director": "Conrad Vernon, Greg Tiernan",
+        "budget": "$24,000,000"
+    },
+    {
+        "title": "Ip Man 4",
+        "synopsis": "Ip Man’s life remains unchanged after his wife’s death, but he and his son are slowly drifting apart. To seek a better future for his son, Ip Man decides to travel to the U.S. only to find the stable, peaceful life abroad is only skin deep. Underneath lies a deep rooted racial discrimination that is far worse than he has expected. Ip Man re-examines his position and ponders on the reason he took up martial arts in the beginning.",
+        "year": 2019,
+        "trailer": "https://youtu.be/oCBGTCNJW2g",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/Ip_Man_4_poster.png/220px-Ip_Man_4_poster.png",
+        "director": "Wilson Yip",
+        "budget": "$52,000,000"
+    },
+    {
+        "title": "The LEGO Movie 2: The Second Part",
+        "synopsis": "The heroes of Bricksburg reunite in an adventure to save their beloved city. It's been five years since everything was awesome and the citizens are facing a huge new threat: Invaders from outer space, wrecking everything faster than they can rebuild. The battle to defeat them and restore harmony to the LEGO universe will take Emmet, Lucy, Batman and their friends to faraway, unexplored worlds, including a strange galaxy where everything is a musical. It will test their courage, creativity and Master Building skills, and reveal just how special they really are.",
+        "year": 2019,
+        "trailer": "https://youtu.be/cksYkEzUa7k",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/f/fd/The_Lego_Movie_2_The_Second_Part_theatrical_poster.jpg",
+        "director": "Mike Mitchell",
+        "budget": "$99,000,000 "
+    },
+    {
+        "title": "Tenki no Ko",
+        "synopsis": "The summer of his high school freshman year, Hodaka runs away from his remote island home to Tokyo, and quickly finds himself pushed to his financial and personal limits. The weather is unusually gloomy and rainy every day, as if to suggest his future. He lives his days in isolation, but finally finds work as a writer for a mysterious occult magazine. Then one day, Hodaka meets Hina on a busy street corner. This bright and strong-willed girl possesses a strange and wonderful ability: the power to stop the rain and clear the sky…",
+        "year": 2019,
+        "trailer": "https://youtu.be/Q6iK6DjV_iE",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Weathering_with_You_Poster.jpg/220px-Weathering_with_You_Poster.jpg",
+        "director": "Makoto Shinkai",
+        "budget": "$11,100,000"
+    },
+    {
+        "title": "Abominable",
+        "synopsis": "When teenage Yi encounters a young Yeti on the roof of her apartment building in Shanghai, she and her mischievous friends, Jin and Peng, name him “Everest” and embark on an epic quest to reunite the magical creature with his family at the highest point on Earth. But the trio of friends will have to stay one-step ahead of Burnish, a wealthy man intent on capturing a Yeti, and zoologist Dr. Zara, to help Everest get home.",
+        "year": 2019,
+        "trailer": "https://youtu.be/XrgVtuDRBjM",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Abominable_%282019_poster%29.png/220px-Abominable_%282019_poster%29.png",
+        "director": "Jill Culton",
+        "budget": "$75,000,000"
+    },
+    {
+        "title": "The White Storm 2: Drug Lords",
+        "synopsis": "A wealthy businessman tries to take down a drug kingpin that he used to work with, while a policeman tries to find justice without breaking the law.",
+        "year": 2019,
+        "trailer": "https://youtu.be/TCb64YmbSx8",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/1/15/TheWhiteStorm2DrugLords.jpg/220px-TheWhiteStorm2DrugLords.jpg",
+        "director": "Herman Yau",
+        "budget": "$25,000,000"
+    },
+    {
+        "title": "Gemini Man",
+        "synopsis": "Henry Brogan is an elite assassin who is suddenly targeted and pursued by a mysterious young operative that seemingly can predict his every move.",
+        "year": 2019,
+        "trailer": "https://youtu.be/AbyJignbSj0",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/5/5b/GeminiManPoster.jpeg",
+        "director": "Ang Lee",
+        "budget": "$140,000,000"
+    },
+    {
+        "title": "Spies in Disguise",
+        "synopsis": "Super spy Lance Sterling and scientist Walter Beckett are almost exact opposites. Lance is smooth, suave and debonair. Walter is… not. Walter is a great mind but perhaps not a great socializer. What he lacks in social skills though, he makes up for in smarts and invention: Walter is the scientific genius who invents the gadgets Lance uses on his missions. But when events take an unexpected turn, Walter and Lance suddenly have to rely on each other in a whole new way. And if this odd couple can’t learn to work as a team, the whole world is in peril.",
+        "year": 2019,
+        "trailer": "https://youtu.be/A05s7OM-8Oc",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/Spies_in_Disguise_Final_Poster.jpeg/220px-Spies_in_Disguise_Final_Poster.jpeg",
+        "director": "Troy Quane, Nick Bruno",
+        "budget": "$100,000,000"
+    },
+    {
+        "title": "Escape Room",
+        "synopsis": "A psychological thriller about six strangers who find themselves in circumstances beyond their control and must use their wits to find the clues or die.",
+        "year": 2019,
+        "trailer": "https://youtu.be/6dSKUoV0SNI",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Escape_Room_%282019_poster%29.png/220px-Escape_Room_%282019_poster%29.png",
+        "director": "Adam Robitel",
+        "budget": "Adam Robitel"
+    },
+    {
+        "title": "Pet Sematary",
+        "synopsis": "Dr. Louis Creed, who, after relocating with his wife Rachel and their two young children from Boston to rural Maine, discovers a mysterious burial ground hidden deep in the woods near the family’s new home. When tragedy strikes, Louis turns to his unusual neighbor, Jud Crandall, setting off a perilous chain reaction that unleashes an unfathomable evil with horrific consequences.",
+        "year": 2019,
+        "trailer": "https://youtu.be/zK0LNzU2TQI",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Pet_Sematary_%282019_poster%29.png/220px-Pet_Sematary_%282019_poster%29.png",
+        "director": "Kevin Kölsch, Dennis Widmyer",
+        "budget": "$21,000,000"
+    }
+]
